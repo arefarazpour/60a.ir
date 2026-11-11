@@ -1,3 +1,8 @@
+SHASTA | Online Accounting & Business Management System
+
+<p align="center">
+  <img src="dashboard.png" alt="SHASTA Dashboard" width="100%">
+</p>
 # 👋 Hi, I'm Aref Arazpour
 
 **Software Developer | Web Application Developer**
